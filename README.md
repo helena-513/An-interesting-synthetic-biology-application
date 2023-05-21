@@ -14,14 +14,20 @@ I have the same opinion as Judit on how this TFG can be improved, because the tr
 
 
 ## Bibliography
+
 [1] Martinez Gonzalez, J. (2021). Gene expression remotely controlled by an electronic device using a thermal interface. http://hdl.handle.net/10230/48226
+
 [2] Mimee, M., Nadeau, P., Hayward, A., Carim, S., Flanagan, S., Jerger, L., ... & Lu, T. K. (2018). An ingestible bacterial-electronic system to monitor gastrointestinal health. Science, 360(6391), 915-918. https://doi.org/10.1126/science.aas9315
+
 [3] Krawczyk, K., Xue, S., Buchmann, P., Charpin-El-Hamri, G., Saxena, P., Hussherr, M. D., ... & Fussenegger, M. (2020). Electrogenetic cellular insulin release for real-time glycemic control in type 1 diabetic mice. Science, 368(6494), 993-1001. https://doi.org/10.1126/science.aau7187
 
 License Creative-Common (CC 4.0)
 
 ## Author contact
 Helena Sánchez
+
 C\ Roc Boronat 138,
+
 08018 Barcelona, Spain
+
 helena.sanchez04@estudiant.upf.edu
