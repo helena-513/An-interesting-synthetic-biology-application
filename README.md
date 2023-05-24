@@ -1,4 +1,4 @@
-# Scientific communication project
+# An interesting synthetic biology application
 UNIS: u198695 
 Email: helena.sanchez04@estudiant.upf.edu
 ## Brief introduction
