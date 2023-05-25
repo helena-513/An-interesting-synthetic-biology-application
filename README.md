@@ -26,7 +26,7 @@ I have the same opinion as Judit on how this TFG can be improved, because the tr
 
 ![image](https://github.com/helena-513/An-interesting-synthetic-biology-application/assets/123157886/c4863897-e3e4-44da-868a-77c30ef4944f)
 
-Fig.1 Flow chart on how the wiki page is structured
+Fig.1 Flow chart on how the wiki page is structured.
 
 
 
