@@ -9,7 +9,12 @@ The main limitation of this project was on choosing the right promoter, some of 
 This technology could be used to reach hostile environments such as the depths of the ocean or another planet [1].
 This technology is full of promise because a lot of interesting things have been done before. For example, Mark Mimee et al. created an ingestible bacterial-electronic system able to detect gastrointestinal bleeding [2] or Krzysztof Krawczyk et al. designed a bioelectronic implant that can release insulin on demand by using electrical stimulation [3].
 
-I have the same opinion as Judit on how this TFG can be improved, because the truth is that there's a long way to go on this field and a lot of interesting applications are about to discover. On the case of the project she developed, I reckon that more complexity could be added. One option would be apart from gene expression, if we add recombinases to the engineered cells we are able to reprogram them increasing implementation opportunities. Or creating spatial patterns if we control hotspots in order to control the gene expression on different points. This and more things are commented in the wiki page, if you are interested in learning more about this field.
+I have the same opinion as Judit on how this TFG can be improved, because the truth is that there's a long way to go on this field and a lot of interesting applications are about to discover. On the case of the project she developed, I reckon that more complexity could be added. One option would be to add recombinases to the engineered cells so we are able to reprogram them increasing implementation opportunities. Creating spatial patterns would also be a great option if we control hotspots in order to control the gene expression on different points. This and more things are commented in the wiki page, if you are interested in learning more about this field.
+* 
+* 1. Introduction
+* 2. Materials and methods
+* 3. Results
+* 4. Conclusions
 
 
 
