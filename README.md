@@ -10,11 +10,24 @@ This technology could be used to reach hostile environments such as the depths o
 This technology is full of promise because a lot of interesting things have been done before. For example, Mark Mimee et al. created an ingestible bacterial-electronic system able to detect gastrointestinal bleeding [2] or Krzysztof Krawczyk et al. designed a bioelectronic implant that can release insulin on demand by using electrical stimulation [3].
 
 I have the same opinion as Judit on how this TFG can be improved, because the truth is that there's a long way to go on this field and a lot of interesting applications are about to discover. On the case of the project she developed, I reckon that more complexity could be added. One option would be to add recombinases to the engineered cells so we are able to reprogram them increasing implementation opportunities. Creating spatial patterns would also be a great option if we control hotspots in order to control the gene expression on different points. This and more things are commented in the wiki page, if you are interested in learning more about this field.
-* 
-* 1. Introduction
-* 2. Materials and methods
-* 3. Results
-* 4. Conclusions
+
+**Wiki**
+* [Home](https://github.com/helena-513/An-interesting-synthetic-biology-application/wiki)
+
+**TFG: Synthetic Biology**
+
+* [1. Introduction](https://github.com/helena-513/An-interesting-synthetic-biology-application/wiki/1.-Introduction)
+
+* [2. Materials and methods](https://github.com/helena-513/An-interesting-synthetic-biology-application/wiki/2.-Materials-and-methods)
+
+* [3. Results](https://github.com/helena-513/An-interesting-synthetic-biology-application/wiki/3.-Results)
+
+* [4. Conclusions](https://github.com/helena-513/An-interesting-synthetic-biology-application/wiki/4.-Conclusions)
+
+![image](https://github.com/helena-513/An-interesting-synthetic-biology-application/assets/123157886/c4863897-e3e4-44da-868a-77c30ef4944f)
+
+Fig.1 Flow chart on how the wiki page is structured
+
 
 
 
